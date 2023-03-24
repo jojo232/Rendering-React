@@ -1,2 +1,1 @@
-# rendering-React
-Created with CodeSandbox
+#   セクション3 再レンダリングの仕組みを知りレンダリングを最適化する
